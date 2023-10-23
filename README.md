@@ -9,9 +9,10 @@ Feel free to explore my GitHub for more insights into my coding journey and the 
 
 ### 🗺️ A Glimpse of My Development Journey...
 
--  Flight Planner using C# in conjunction with the ASP.NET Core and Entity Framework (EF) Core frameworks. Employed SQL as the backend database system to create a robust web application for adding, removing, storing, and checking flights.
--  Scooter Rental system using Test-Driven Development (TDD) principles. Facilitated scooter servicing, rental operations, and income calculation, enhancing software reliability and refining agile development and TDD skills.
--  Company employee management project where I implemented a comprehensive employee management system for a company using TDD principles, with a focus on mocking techniques.
+-  [**Flight Planner**](https://github.com/Kympu/Flight-Planner) using C# in conjunction with the ASP.NET Core and Entity Framework (EF) Core frameworks. Employed SQL as the backend database system to create a robust web application for adding, removing, storing, and checking flights.
+-  [**Scooter Rental**](https://github.com/Kympu/Scooter-Rental-Service) system using Test-Driven Development (TDD) principles. Facilitated scooter servicing, rental operations, and income calculation, enhancing software reliability and refining agile development and TDD skills.
+-  **Employee Management [WIP]** project where I implemented a comprehensive employee management system for a company using TDD principles, with a focus on mocking techniques.
+-  [**KympBot**](https://github.com/Kympu/KympBot) is a Discord bot designed for web scraping to provide relevant information, developed in Java. It was created to cater to popular demands and my personal needs, offering a variety of commands for fetching data from the web.
 
 ### 🏗️ On My Development Horizon...
 
